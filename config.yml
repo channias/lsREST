@@ -1,0 +1,6 @@
+port: 6558
+content_type: 'application/json'
+charset: 'UTF-8'
+log_path: 'logs'
+logger: 'file'
+envdir: 'environments'
