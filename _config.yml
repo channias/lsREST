@@ -1,0 +1,8 @@
+title: lsREST
+description: RESTFUL Server for Livestatus
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-midnight
+
+gems:
+  - jekyll-mentions
